@@ -1,0 +1,6 @@
+{
+  "options": {
+    "API_TOKEN": "BLAH",
+    "HOST": "generic-http-host:7998"
+  }
+}
